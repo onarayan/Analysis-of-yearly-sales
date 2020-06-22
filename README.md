@@ -8,7 +8,7 @@ Following questions have been asked:
 3. Products frequently bought, 
 4. Predictive analysis of timing of advertisement to increase the likelihood of purchase.
 
-The answers to these questions and approaches taken have been
+The answers to these questions and approaches taken have been described in jupyter notebook
 
 
 Data from  https://github.com/KeithGalli
