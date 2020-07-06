@@ -8,7 +8,7 @@ Following questions have been asked:
 3. Products and product combinations that were frequently purchased, 
 4. Predictive analysis of the timing of advertisement which would increase the likelihood of purchase.
 
-The answers to these questions and approaches taken have been described in jupyter notebook.
+The answers to these questions and approaches taken have been described in [jupyter notebook](https://github.com/onarayan/Analysis-of-yearly-sales/blob/master/Sale_analysis-Final.ipynb).
 
 
 [Data Source](https://github.com/KeithGalli)
